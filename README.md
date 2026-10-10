@@ -22,6 +22,8 @@ PDFと画面プレビューは`src/layout.ts`の共通配置を使用します�
 
 ## 公開・確認事項
 
-現在の公開先はSitesです。GitHubリポジトリとCloudflare Pagesへの自動デプロイは未設定です。`dist`を静的ホスティングへ配備できます。
+公開先は[GitHub Pages](https://daiyanoa1234-eng.github.io/rehab-sheet/)、ソースは[GitHub](https://github.com/daiyanoa1234-eng/rehab-sheet)です。`main`へのpushでGitHub Actionsがテスト・ビルド・公開を自動実行します。Pagesでは`/rehab-sheet/`を基準パスとしてビルドします。Cloudflare Pagesは使用していません。
+
+旧SitesのURLとGitHub Pagesではブラウザの保存領域が異なります。標準値を引き継ぐ場合は、旧URLでJSONを書き出し、新URLで読み込んでください。
 
 運動の初期値と生成画像は、実際の対象者への指導前に担当療法士が確認・調整してください。画面・PDFの表示は検証済みですが、実機プリンタによる1〜4種の印刷確認と作成時間KPIの測定は未実施です。
