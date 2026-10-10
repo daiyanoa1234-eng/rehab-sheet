@@ -1,0 +1,26 @@
+{
+  "base": "Simple flat medical illustration for a home rehabilitation sheet. An older Japanese adult (gender-neutral, short gray hair) in a plain light-gray T-shirt and navy pants. Clean black outlines, flat colors, one light-blue movement arrow, white background, no text, no shadows, only necessary props. Square, full body centered with margin.",
+  "method": "Built-in image_gen. ex01/ex06/ex14 prototypes, remaining images use ex01 as the character and style reference. Outputs resampled to 1024x1024 PNG; 256x256 thumbnails for display.",
+  "exercises": {
+    "ex02": "Side view seated on a stable chair, torso leaning forward and starting to rise with feet flat. One arrow upwards. Only chair.",
+    "ex03": "Side view standing holding a stable table, heels raised off floor on tiptoes. One upward arrow at heels. Only table.",
+    "ex04": "Side view forward lunge, one foot forward, both knees slightly bent, upright torso. Front knee above ankle. One forward arrow. No props.",
+    "ex05": "Side view seated on floor with both legs extended, rolled towel under one knee pressing downward. Highlight front thigh pale blue INSTEAD of arrow. Only rolled towel.",
+    "ex07": "Side view seated upright on stable chair, one knee fully extended forward, toes pointed up, other foot flat. One upward arrow. Only chair.",
+    "ex08": "Front view of person lying on their side on floor, lower leg bent slightly, upper leg straight lifted upward, toes facing forward. One upward arrow. No props.",
+    "ex09": "Supported single-leg stance, foot lifted only 2 cm beside ankle, legs nearly straight, tiny arrow.",
+    "ex10": "Front view upright standing marching in place, one thigh raised, opposite arm forward. One upward arrow. No props.",
+    "ex11": "Front view standing beside a wall, heel of front foot touching toes of back foot in a narrow tandem stance, one hand touching wall for support. No arrow because stationary. Only wall.",
+    "ex12": "Side view lying supine, knees bent and both feet flat on floor, abdomen gently drawn inward. Pale blue emphasis on abdomen INSTEAD of arrow. No props.",
+    "ex13": "Side view lying supine doing a bridge, both feet on floor knees bent and hips lifted with straight alignment shoulders hips knees. One upward arrow at hips. No props.",
+    "ex15": "Prone, low pillow under abdomen, chest slightly lifted, chin tucked, spine almost horizontal, tiny arrow.",
+    "ex16": "Side view sitting at edge of chair, one leg extended forward heel on floor and toes up, torso leaning forward with straight back. One curved forward arrow. Only chair.",
+    "ex17": "Side view standing facing wall hands on wall, one leg behind straight with heel firmly on floor and front knee bent. One forward arrow toward wall. Only wall.",
+    "ex18": "Side view person lying on their side, bottom leg relaxed slightly bent, top knee bent with hand holding top ankle drawing heel toward buttock. One small backward arrow. No props.",
+    "ex19": "Side view lying supine, both knees gently drawn toward chest and held with both hands around shins. One arrow pointing toward chest. No props.",
+    "ex20": "Side view sitting upright on stable chair, elbows bent and pulled backward to squeeze shoulder blades, shoulders relaxed. One backward arrow at elbows. Only chair.",
+    "ex01": "Side view supported squat holding stable table, hips back, knees do not pass toes. Downward arrow.",
+    "ex06": "Side view supine straight leg raise, opposite knee bent, lifted leg straight with toes up.",
+    "ex14": "All fours, opposite arm and leg extended horizontally, neutral back."
+  }
+}
